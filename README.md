@@ -1,6 +1,7 @@
 # Chat
 
 ## LiveChat
+LiveChat is a software that makes online sales and support easy and successful. Among many useful features, there are: full website traffic monitoring, chat buttons, auto-invitations, user friendly operator console, client chat window that can be customized, customized buttons and invitations, operator statistics, administration console, secure ssl connection, and many others.
 ### Analytics
 LiveChat’s reporting module includes statistics like: + total number of chats + chat satisfaction + average chat duration + first/average response time + operators availability + chat to goal conversion + queue abandonment + queue conversion & average waiting time + queue conversion +chat survey stats. 
 Reports are also available through API. Gathered data are exportable in CSV format.

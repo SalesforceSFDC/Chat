@@ -16,3 +16,10 @@ Example: If you have 6 agents operating on 10 websites, you only pay $234/mo (Te
 Both, Team and Business plans allow custom branding, reporting and sales funnels for multiple websites for no additional charge. You also get to hook them into your CRM/Ticketing/Other system (whether via plugin or our robust API).
 
 There is no startup fee, cancellation fee, contract, and you can scale up and down anytime you wish.
+### Bot
+https://www.livechatinc.com/kb/bot-botengine-integration/
+### Integrations (Salesforce)
+https://www.livechatinc.com/kb/salesforce-integration/ - Salesforce installation
+https://www.livechatinc.com/kb/salesforce-integration-usage/ - Salesforce usage
+https://www.livechatinc.com/kb/salesforce-integration-configuration/ - Salesforce configuration
+

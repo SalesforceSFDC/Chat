@@ -24,4 +24,3 @@ There is no startup fee, cancellation fee, contract, and you can scale up and do
 * https://www.livechatinc.com/kb/salesforce-integration/ - Salesforce installation
 * https://www.livechatinc.com/kb/salesforce-integration-usage/ - Salesforce usage
 * https://www.livechatinc.com/kb/salesforce-integration-configuration/ - Salesforce configuration
-
